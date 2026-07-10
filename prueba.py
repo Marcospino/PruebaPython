@@ -440,3 +440,5 @@ while True:
         print("Programa finalizado.")
 
         break
+
+# Sistema ReadCloud finalizado correctamente
